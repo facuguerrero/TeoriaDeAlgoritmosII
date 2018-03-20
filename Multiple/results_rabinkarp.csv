@@ -1,0 +1,16 @@
+Algorithm,Hash,File Type,Alphabet Size,Text Size,Pattern Size,Time
+Rabin-Karp Algorithm,FNV 32 bits,DNA,3,1.6kb,1,0.010293960571289062
+Rabin-Karp Algorithm,FNV 32 bits,DNA,3,56.7kb,56,0.658329963684082
+Rabin-Karp Algorithm,FNV 32 bits,DNA,3,180.4kb,180,4.651828050613403
+Rabin-Karp Algorithm,Murmur Hash 32 bits,DNA,3,1.6kb,1,0.005776882171630859
+Rabin-Karp Algorithm,Murmur Hash 32 bits,DNA,3,56.7kb,56,0.6076619625091553
+Rabin-Karp Algorithm,Murmur Hash 32 bits,DNA,3,180.4kb,180,4.447865962982178
+Rabin-Karp Algorithm,City Hash 32 bits,DNA,3,1.6kb,1,0.005575895309448242
+Rabin-Karp Algorithm,City Hash 32 bits,DNA,3,56.7kb,56,0.5920751094818115
+Rabin-Karp Algorithm,City Hash 32 bits,DNA,3,180.4kb,180,4.389353036880493
+Rabin-Karp Algorithm,Spooky Hash 32 bits,DNA,3,1.6kb,1,0.005489826202392578
+Rabin-Karp Algorithm,Spooky Hash 32 bits,DNA,3,56.7kb,56,0.5900938510894775
+Rabin-Karp Algorithm,Spooky Hash 32 bits,DNA,3,180.4kb,180,4.42625093460083
+Naive Algorithm,None,DNA,3,1.6kb,1,0.014106035232543945
+Naive Algorithm,None,DNA,3,56.7kb,56,26.350321054458618
+Naive Algorithm,None,DNA,3,180.4kb,180,270.6419720649719

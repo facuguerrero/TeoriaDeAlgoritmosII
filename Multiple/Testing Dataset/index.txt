@@ -1,0 +1,105 @@
+Sets de datos para el TP1 de 75.30 Teoría de Algoritmos II (2c 2017).
+
+
+- Textos en español
+
+Nombre:       egmf.txt
+Fuente:       https://es.wikisource.org/wiki/El_Gaucho_Mart%C3%ADn_Fierro
+Codificación: UTF-8
+Descripción:  "El Gaucho Martín Fierro", poema argentino en trece cantos
+              de José Hernández (1872).
+
+Nombre:       quijote.txt
+Fuente:       https://www.gutenberg.org/
+Codificación: UTF-8
+Descripción:  "El ingenioso hidalgo don Quijote de la Mancha", novela
+              española de Miguel de Cervantes Saavedra (1605).
+
+
+
+- Textos en inglés
+
+Nombre:       bible.txt
+Fuente:       http://corpus.canterbury.ac.nz/descriptions/
+Codificación: UTF-8
+Descripción:  La Versión Autorizada del Rey Jacobo de la Biblia (KJV).
+
+Nombre:       world192.txt
+Fuente:       https://www.gutenberg.org/
+Codificación: UTF-8
+Descripción:  La edición de 1992 del CIA World Factbook.
+
+
+
+- Textos en chino
+    
+Nombre:       ailing.gb
+Fuente:       http://www-personal.umich.edu/~dporter/sampler/sampler.html
+Codificación: GB2312
+Descripción:  "Love in a Fallen City", historia corta china de Zhang
+              Ailing (1943).
+
+Nombre:       bluekite.gb
+Fuente:       http://www-personal.umich.edu/~dporter/sampler/sampler.html
+Codificación: GB2312
+Descripción:  Extracto del guión de "The Blue Kite", dirigida por Tian
+              Zhuangzhuang (1993).
+
+Nombre:       tiger.gb
+Fuente:       http://www-personal.umich.edu/~dporter/sampler/sampler.html
+Codificación: GB2312
+Descripción:  Extracto del guión de "Crouching Tiger, Hidden Dragon" de
+              Ang Lee (2000).
+
+
+
+- Muestras de ADN
+
+Nombre:       stm2.dat
+Fuente:       http://www.fruitfly.org
+Codificación: UTF-8
+Descripción:  Genoma de la enfermedad de Alzhéimer (STM2).
+
+Nombre:       rbs.dat
+Fuente:       http://www.fruitfly.org
+Codificación: UTF-8
+Descripción:  Exón del genoma de retinoblastoma.
+
+Nombre:       hprt.dat
+Fuente:       http://www.fruitfly.org
+Codificación: UTF-8
+Descripción:  Genoma de la enzima hipoxantina-guanina
+              fosforribosiltransterasa (HPRT).
+
+Nombre:       ecoli.dat
+Fuente:       http://corpus.canterbury.ac.nz/descriptions/
+Codificación: UTF-8
+Descripción:  Genoma del Escherichia coli.
+
+
+
+- Códigos fuente
+
+Nombre:       y.tab.c
+Fuente:       http://git.savannah.gnu.org/cgit/bash.git/tree/y.tab.c?h=bash-4.4
+Codificación: UTF-8
+Descripción:  Uno de los parsers de Bash (versión 4.4).
+
+Nombre:       compress.c
+Fuente:       ftp://ftp.ucsd.edu/pub/compress.c
+Codificación: UTF-8
+Descripción:  Utilidad de compresión de archivos.
+
+
+
+- Archivos aleatorios
+    
+Nombre:       pi.txt
+Fuente:       http://corpus.canterbury.ac.nz/descriptions/
+Codificación: UTF-8
+Descripción:  1.000.000 de los primeros caracteres de pi.
+
+Nombre:       random.txt
+Fuente:       http://corpus.canterbury.ac.nz/descriptions/
+Codificación: UTF-8
+Descripción:  100.000 caracteres aleatorios tomados de [a-z|A-Z|0-9|!| ].
